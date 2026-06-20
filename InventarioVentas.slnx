@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InventarioVentas.Application/InventarioVentas.Application.csproj" />
+    <Project Path="src/InventarioVentas.Domain/InventarioVentas.Domain.csproj" />
+    <Project Path="src/InventarioVentas.Infrastructure/InventarioVentas.Infrastructure.csproj" />
+    <Project Path="src/InventarioVentas.Web/InventarioVentas.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InventarioVentas.Tests/InventarioVentas.Tests.csproj" />
+  </Folder>
+</Solution>
